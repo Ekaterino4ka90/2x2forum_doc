@@ -1,6 +1,6 @@
 ---
 sidebar_position: 15
-slug: "/admin/privacy_settings"
+slug: "/admin/privacy-settings"
 ---
 
 # Пользовательское соглашение

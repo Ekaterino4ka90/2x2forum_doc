@@ -1,6 +1,6 @@
 ---
 sidebar_position: 13
-slug: "/create_forum/blog_settings"
+slug: "/admin/blog-settings"
 ---
 
 # Настройки Блога

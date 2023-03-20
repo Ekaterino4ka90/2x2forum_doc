@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-slug: "/admin/social_logins"
+slug: "/admin/social-logins"
 ---
 
 # Вход через соцсети
