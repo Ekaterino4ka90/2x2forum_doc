@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-slug: "/create_forum/categories"
+slug: "/admin/categories"
 ---
 
 # Категории
