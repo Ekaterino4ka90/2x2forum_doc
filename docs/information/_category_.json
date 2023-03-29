@@ -1,0 +1,10 @@
+{
+   "label": "Полезная информация",
+    "position": 4,
+    "link": {
+     "slug": "information",
+     "type": "generated-index",
+     "title": "Полезная информация платформы 2x2forum.ru.",
+     "description": "Полезная информация, которая всегда поможет с платформой 2x2forum.ru."
+    }
+}

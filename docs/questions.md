@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 slug: "/questions"
 sidebar_label: "Вопросы"
 title: "Вопросы о современной платформе 2x2forum.ru"
