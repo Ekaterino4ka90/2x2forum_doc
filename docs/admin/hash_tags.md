@@ -25,7 +25,9 @@ slug: "/admin/hash-tags"
 <p align="center" width="100%">
     <img width="50%" src="/img/tag2.png" /> 
 </p>
-Готово.
+
+Нажимаем кнопку "Обновить".
+
 Теперь при созданий тем, появится окно для ХешТегов:
 
 <p align="center" width="100%">
